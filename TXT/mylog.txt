@@ -1,1 +1,9 @@
-WEEK00 LOG
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode: https://osp4diss.vslm.org/ETC/logCodes.txt
+ZCZC W00 20 L03 GitHub related, setting github page
+ZCZC W00 15 L10 Assignment
+ZCZC W00 80 LO2 ZOOM sync Tuesday 23 February 2021
+ZCZC W00 10 L05 GSGS related
+ZCZC W00 15L06 Reading References/Books/Documents, W00 slides
+ZCZC W00 20 L22 YouTube: study, etc.
