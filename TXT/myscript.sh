@@ -56,4 +56,6 @@ gpg -o $SHA.asc -a -sb $SHA
 echo "gpg --verify $SHA.asc $SHA"
 gpg --verify $SHA.asc $SHA
 
+echo "ggg"
+
 exit 0
