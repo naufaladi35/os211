@@ -30,5 +30,6 @@ ZCZC W03 210 L23 Discord: assignment discussion.
 ZCZC W03 80 L02 ZOOM sync class
 ZCZC W03 60 L25 C-language: study, etc.
 ZCZC W03 50 L22 YouTube: watched videos about file system
-ZCZC W03 60 L06 Reading references
-ZCZC W03 210 L08 Trying something: .bash_aliases, nano, mycript, Windows Terminal
+ZCZC W03 40 L06 Reading references
+ZCZC W03 240 L08 Trying something: .bash_aliases, nano, mycript, Windows Terminal
+ZCZC W03 60 L05 GSGS related: bash scripting, linux commands
