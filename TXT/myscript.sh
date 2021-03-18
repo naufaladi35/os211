@@ -56,6 +56,6 @@ gpg -o $SHA.asc -a -sb $SHA
 echo "gpg --verify $SHA.asc $SHA"
 gpg --verify $SHA.asc $SHA
 
-echo "ggg"
+git pull; git add --all; git commit -m "OS211 naufaladi35"; git push
 
 exit 0
