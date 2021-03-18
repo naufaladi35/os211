@@ -25,9 +25,10 @@ ZCZC W02 60 L23 Discord: assignment discussion.
 ZCZC W02 80 L25 C-language: study, etc.
 ZCZC W02 90 L02 ZOOM sync Tuesday 9 March 2021
 ZCZC W02 25 L22 YouTube: watched videos about cryptography
-ZCZC W03 210 L10 W3 Assignments. demos
+ZCZC W03 230 L10 W3 Assignments. demos
 ZCZC W03 210 L23 Discord: assignment discussion.
 ZCZC W03 80 L02 ZOOM sync class
 ZCZC W03 60 L25 C-language: study, etc.
 ZCZC W03 50 L22 YouTube: watched videos about file system
-ZCZC W03 30 L06 Reading references
+ZCZC W03 60 L06 Reading references
+ZCZC W03 150 L08 Trying something: .bash_aliases, nano, mycript, Windows Terminal
