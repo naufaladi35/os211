@@ -33,3 +33,8 @@ ZCZC W03 50 L22 YouTube: watched videos about file system
 ZCZC W03 40 L06 Reading references
 ZCZC W03 240 L08 Trying something: .bash_aliases, nano, mycript, Windows Terminal
 ZCZC W03 60 L05 GSGS related: bash scripting, linux commands
+ZCZC W04 120 L10 W04 Assignments
+ZCZC W04 100 L07 Demo W04
+ZCZC W04 150 L23 Discord: assignment discussion.
+ZCZC W04 90 L02 ZOOM sync class
+ZCZC W04 60 L08 Trying something: .bash_aliases, script
