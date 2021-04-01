@@ -38,3 +38,8 @@ ZCZC W04 100 L07 Demo W04
 ZCZC W04 150 L23 Discord: assignment discussion.
 ZCZC W04 90 L02 ZOOM sync class
 ZCZC W04 60 L08 Trying something: .bash_aliases, script
+ZCZC W05 105 L02 ZOOM sync Thursday 1 April 2021
+ZCZC W05 150 L23 Discord: assignment discussion.
+ZCZC W05 150 L10 W05 Assignments
+ZCZC W05 50 L08 Trying something: editing .bash_aliases
+ZCZC W05 30 L06 Reading references
