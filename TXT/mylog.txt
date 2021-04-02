@@ -42,4 +42,6 @@ ZCZC W05 105 L02 ZOOM sync Thursday 1 April 2021
 ZCZC W05 150 L23 Discord: assignment discussion.
 ZCZC W05 150 L10 W05 Assignments
 ZCZC W05 50 L08 Trying something: editing .bash_aliases
-ZCZC W05 30 L06 Reading references
+ZCZC W05 60 L06 Reading references
+ZCZC W05 80 L07 Demo W05
+ZCZC W05 40 L05 GSGS related: top command, browser
