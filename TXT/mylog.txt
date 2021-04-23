@@ -50,4 +50,4 @@ ZCZC W06 80 L02 ZOOM Sync 8 April 2021
 ZCZC W06 90 L10 W06 Assignments
 ZCZC W06 20 L08 Trying something
 ZCZC W06 20 L06 Reading references
-ZCZC W06 60 L07 Demo W05
+ZCZC W06 60 L07 Demo W06
