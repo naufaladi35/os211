@@ -55,5 +55,8 @@ ZCZC W07 115 L02 ZOOm Sync 27 April 2021
 ZCZC W07 120 L10 W07 Assignments
 ZCZC W07 40 L05 GSGS related
 ZCZC W07 30 L06 Reading references
-
+ZCZC W08 110 L02 ZOOM Sync 4 May 2021
+ZCZC W08 30 L06 Reading references
+ZCZC W08 150 L10 W07 Assignments
+ZCZC W08 90 L23 Discord: assignments discussion
 
